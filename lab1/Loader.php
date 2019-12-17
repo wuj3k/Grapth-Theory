@@ -1,7 +1,9 @@
 <?php
 
+
 namespace GraphTheory\Lab1;
 
+require_once('Point.php');
 
 class Loader
 {
